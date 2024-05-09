@@ -1,38 +1,15 @@
-# Portfolio
+-- Description --
 
-## Project Overview
+This is a simple quiz application focused on NFL (National Football League) trivia. Users can test their knowledge by answering multiple-choice questions related to NFL history, teams, players, and records.
 
-This repository contains the source code and assets for my personal portfolio webpage. The portfolio showcases my skills, projects, and experiences to provide a comprehensive overview of my professional journey.
+-- Features --
 
-## Table of Contents
+20 multiple-choice questions about various aspects of the NFL. Randomized question order to keep each quiz unique. Immediate feedback on answer selection (correct/incorrect). Final score display at the end of the quiz. Responsive design for compatibility across devices. Easy navigation with intuitive buttons.
 
-- [Features](#features)
-- [Demo](#demo)
-- [Getting Started](#getting-started)
-- [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [License](#license)
-- [Contact](#contact)
+-- How to Play --
 
-## Features
-
-- Responsive design for optimal viewing on various devices.
-- Sections highlighting skills, projects, and professional experiences.
-- Interactive elements to engage visitors.
-- Clear navigation for easy exploration of content.
-
-## Demo
-
-A live demo of the portfolio is available at [Your Portfolio URL](https://your-portfolio-url.com).
-
-![Portfolio Screenshot](./screenshots/screenshot.png)
-
-## Getting Started
-
-To run the portfolio locally, follow these steps:
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/portfolio.git
-cd portfolio
+Click on the "Start Quiz" button to begin.
+Read each question carefully and choose an answer by clicking the respective button.
+Immediate feedback is provided for each selection.
+Click "Next" to proceed to the next question.
+After answering all 20 questions or reaching the maximum questions, your final score will be displayed.
